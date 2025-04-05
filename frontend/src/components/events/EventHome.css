@@ -1,0 +1,25 @@
+.e-s1-button2{
+  border: 1px solid black;
+  background:none;
+  /* border-radius: 7px; */
+}
+
+.e-img{
+  width: 600px;
+}
+
+.e-btn-grp{
+  width: 100%;
+}
+
+.e-card1{
+  
+}
+
+.e-badge{
+  width: 30%;
+  margin: 5px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
